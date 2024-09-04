@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Panyi Gong
 ## 👀 I’m interested in soccer, piano, quantum mechanics
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning computer science @mrjloswald
 - 📫 reach me by email: panyi_gong@avenues-ny.org
 - 😄 Pronouns: She/her
 
